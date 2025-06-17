@@ -10,7 +10,6 @@ body {
   background-color: #121212;
 }
 
-/* Navbar */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -43,7 +42,6 @@ body {
   color: #f9d342;
 }
 
-/* Hero Section */
 .hero {
   background: url('haridwar_ganga.jpg') center/cover no-repeat;
   height: 100vh;
@@ -83,7 +81,6 @@ body {
   background-color: #ffd000;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
   .nav-links {
     display: none;
